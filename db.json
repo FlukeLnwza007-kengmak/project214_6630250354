@@ -1,0 +1,11 @@
+{
+  "courses": [
+    {
+      "code": "01418214",
+      "name": "Practicum in software Development",
+      "credits": 1,
+      "grade": "A",
+      "id": 1
+    }
+  ]
+}
